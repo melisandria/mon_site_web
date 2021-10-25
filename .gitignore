@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.txt
 =======
 tmp/todo.txt
 tmp/*
 >>>>>>> 4f5e5b042b021e024bd9eaf1d3224be4ad29ed90
 *.xml
+=======
+tmp/todo.txt
+
+*.txt
+>>>>>>> a1760e2 (exo bilan chapitre)
